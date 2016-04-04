@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weatherdata>
+  <location>
+    <name>Toulouse</name>
+    <type />
+    <country>FR</country>
+    <timezone />
+    <location altitude="0" latitude="43.604259" longitude="1.44367" geobase="geonames" geobaseid="0" />
+  </location>
+  <credit />
+  <meta>
+    <lastupdate />
+    <calctime>0.0336</calctime>
+    <nextupdate />
+  </meta>
+  <sun rise="2016-04-04T05:29:10" set="2016-04-04T18:25:28" />
+  <forecast>
+    <time from="2016-04-04T09:00:00" to="2016-04-04T12:00:00">
+      <symbol number="801" name="few clouds" var="02d" />
+      <precipitation />
+      <windDirection deg="111.001" code="ESE" name="East-southeast" />
+      <windSpeed mps="3.91" name="Gentle Breeze" />
+      <temperature unit="celsius" value="17.38" min="17.21" max="17.38" />
+      <pressure unit="hPa" value="998.79" />
+      <humidity value="74" unit="%" />
+      <clouds value="few clouds" all="24" unit="%" />
+    </time>
+    <time from="2016-04-04T12:00:00" to="2016-04-04T15:00:00">
+      <symbol number="801" name="few clouds" var="02d" />
+      <precipitation />
+      <windDirection deg="133.501" code="SE" name="SouthEast" />
+      <windSpeed mps="2.76" name="Light breeze" />
+      <temperature unit="celsius" value="19.59" min="19.46" max="19.59" />
+      <pressure unit="hPa" value="996.4" />
+      <humidity value="61" unit="%" />
+      <clouds value="few clouds" all="24" unit="%" />
+    </time>
+    <time from="2016-04-04T15:00:00" to="2016-04-04T18:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.72" type="rain" />
+      <windDirection deg="44.0025" code="NE" name="NorthEast" />
+      <windSpeed mps="1.61" name="Light breeze" />
+      <temperature unit="celsius" value="15.99" min="15.91" max="15.99" />
+      <pressure unit="hPa" value="996.48" />
+      <humidity value="67" unit="%" />
+      <clouds value="broken clouds" all="76" unit="%" />
+    </time>
+    <time from="2016-04-04T18:00:00" to="2016-04-04T21:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="1.16" type="rain" />
+      <windDirection deg="335.002" code="NNW" name="North-northwest" />
+      <windSpeed mps="3.37" name="Gentle Breeze" />
+      <temperature unit="celsius" value="12.64" min="12.6" max="12.64" />
+      <pressure unit="hPa" value="997.97" />
+      <humidity value="89" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-04T21:00:00" to="2016-04-05T00:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="1" type="rain" />
+      <windDirection deg="302" code="WNW" name="West-northwest" />
+      <windSpeed mps="5.72" name="Moderate breeze" />
+      <temperature unit="celsius" value="11.04" min="11.04" max="11.04" />
+      <pressure unit="hPa" value="998.88" />
+      <humidity value="95" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T00:00:00" to="2016-04-05T03:00:00">
+      <symbol number="501" name="moderate rain" var="10n" />
+      <precipitation unit="3h" value="5.5" type="rain" />
+      <windDirection deg="292" code="WNW" name="West-northwest" />
+      <windSpeed mps="5.81" name="Moderate breeze" />
+      <temperature unit="celsius" value="9.86" min="9.86" max="9.86" />
+      <pressure unit="hPa" value="999.39" />
+      <humidity value="100" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T03:00:00" to="2016-04-05T06:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="2.58" type="rain" />
+      <windDirection deg="267.001" code="W" name="West" />
+      <windSpeed mps="4.56" name="Gentle Breeze" />
+      <temperature unit="celsius" value="9.66" min="9.66" max="9.66" />
+      <pressure unit="hPa" value="1000.97" />
+      <humidity value="98" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T06:00:00" to="2016-04-05T09:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="1.09" type="rain" />
+      <windDirection deg="309.001" code="NW" name="Northwest" />
+      <windSpeed mps="4.62" name="Gentle Breeze" />
+      <temperature unit="celsius" value="10.1" min="10.1" max="10.1" />
+      <pressure unit="hPa" value="1003.28" />
+      <humidity value="100" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T09:00:00" to="2016-04-05T12:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="1.4" type="rain" />
+      <windDirection deg="310" code="NW" name="Northwest" />
+      <windSpeed mps="5.27" name="Gentle Breeze" />
+      <temperature unit="celsius" value="10.46" min="10.46" max="10.46" />
+      <pressure unit="hPa" value="1005.06" />
+      <humidity value="100" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T12:00:00" to="2016-04-05T15:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.75" type="rain" />
+      <windDirection deg="309.502" code="NW" name="Northwest" />
+      <windSpeed mps="5.32" name="Gentle Breeze" />
+      <temperature unit="celsius" value="10.9" min="10.9" max="10.9" />
+      <pressure unit="hPa" value="1006.14" />
+      <humidity value="100" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T15:00:00" to="2016-04-05T18:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.36" type="rain" />
+      <windDirection deg="308.5" code="NW" name="Northwest" />
+      <windSpeed mps="4.57" name="Gentle Breeze" />
+      <temperature unit="celsius" value="11.05" min="11.05" max="11.05" />
+      <pressure unit="hPa" value="1007.68" />
+      <humidity value="98" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T18:00:00" to="2016-04-05T21:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.41" type="rain" />
+      <windDirection deg="310.504" code="NW" name="Northwest" />
+      <windSpeed mps="4.82" name="Gentle Breeze" />
+      <temperature unit="celsius" value="10.57" min="10.57" max="10.57" />
+      <pressure unit="hPa" value="1010.14" />
+      <humidity value="99" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-05T21:00:00" to="2016-04-06T00:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.27" type="rain" />
+      <windDirection deg="306.001" code="NW" name="Northwest" />
+      <windSpeed mps="4.76" name="Gentle Breeze" />
+      <temperature unit="celsius" value="9.96" min="9.96" max="9.96" />
+      <pressure unit="hPa" value="1011.28" />
+      <humidity value="100" unit="%" />
+      <clouds value="overcast clouds" all="88" unit="%" />
+    </time>
+    <time from="2016-04-06T00:00:00" to="2016-04-06T03:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.06" type="rain" />
+      <windDirection deg="289.513" code="WNW" name="West-northwest" />
+      <windSpeed mps="4.56" name="Gentle Breeze" />
+      <temperature unit="celsius" value="8.04" min="8.04" max="8.04" />
+      <pressure unit="hPa" value="1011.33" />
+      <humidity value="100" unit="%" />
+      <clouds value="broken clouds" all="64" unit="%" />
+    </time>
+    <time from="2016-04-06T03:00:00" to="2016-04-06T06:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.02" type="rain" />
+      <windDirection deg="281" code="W" name="West" />
+      <windSpeed mps="4.36" name="Gentle Breeze" />
+      <temperature unit="celsius" value="6.99" min="6.99" max="6.99" />
+      <pressure unit="hPa" value="1012.09" />
+      <humidity value="100" unit="%" />
+      <clouds value="broken clouds" all="80" unit="%" />
+    </time>
+    <time from="2016-04-06T06:00:00" to="2016-04-06T09:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.01" type="rain" />
+      <windDirection deg="293.503" code="WNW" name="West-northwest" />
+      <windSpeed mps="4.11" name="Gentle Breeze" />
+      <temperature unit="celsius" value="10" min="10" max="10" />
+      <pressure unit="hPa" value="1012.74" />
+      <humidity value="100" unit="%" />
+      <clouds value="scattered clouds" all="32" unit="%" />
+    </time>
+    <time from="2016-04-06T09:00:00" to="2016-04-06T12:00:00">
+      <symbol number="801" name="few clouds" var="02d" />
+      <precipitation />
+      <windDirection deg="299.501" code="WNW" name="West-northwest" />
+      <windSpeed mps="4.36" name="Gentle Breeze" />
+      <temperature unit="celsius" value="13.32" min="13.32" max="13.32" />
+      <pressure unit="hPa" value="1012.42" />
+      <humidity value="100" unit="%" />
+      <clouds value="few clouds" all="20" unit="%" />
+    </time>
+    <time from="2016-04-06T12:00:00" to="2016-04-06T15:00:00">
+      <symbol number="804" name="overcast clouds" var="04d" />
+      <precipitation />
+      <windDirection deg="299.501" code="WNW" name="West-northwest" />
+      <windSpeed mps="4.71" name="Gentle Breeze" />
+      <temperature unit="celsius" value="14.24" min="14.24" max="14.24" />
+      <pressure unit="hPa" value="1011.34" />
+      <humidity value="76" unit="%" />
+      <clouds value="overcast clouds" all="88" unit="%" />
+    </time>
+    <time from="2016-04-06T15:00:00" to="2016-04-06T18:00:00">
+      <symbol number="804" name="overcast clouds" var="04d" />
+      <precipitation />
+      <windDirection deg="286" code="WNW" name="West-northwest" />
+      <windSpeed mps="4.07" name="Gentle Breeze" />
+      <temperature unit="celsius" value="13.24" min="13.24" max="13.24" />
+      <pressure unit="hPa" value="1011.3" />
+      <humidity value="70" unit="%" />
+      <clouds value="overcast clouds" all="88" unit="%" />
+    </time>
+    <time from="2016-04-06T18:00:00" to="2016-04-06T21:00:00">
+      <symbol number="804" name="overcast clouds" var="04n" />
+      <precipitation />
+      <windDirection deg="275.001" code="W" name="West" />
+      <windSpeed mps="4.51" name="Gentle Breeze" />
+      <temperature unit="celsius" value="11.74" min="11.74" max="11.74" />
+      <pressure unit="hPa" value="1012.23" />
+      <humidity value="70" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-06T21:00:00" to="2016-04-07T00:00:00">
+      <symbol number="801" name="few clouds" var="02n" />
+      <precipitation />
+      <windDirection deg="270.003" code="W" name="West" />
+      <windSpeed mps="4.83" name="Gentle Breeze" />
+      <temperature unit="celsius" value="8.48" min="8.48" max="8.48" />
+      <pressure unit="hPa" value="1012.59" />
+      <humidity value="73" unit="%" />
+      <clouds value="few clouds" all="12" unit="%" />
+    </time>
+    <time from="2016-04-07T00:00:00" to="2016-04-07T03:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.6" type="rain" />
+      <windDirection deg="272.001" code="W" name="West" />
+      <windSpeed mps="5.47" name="Moderate breeze" />
+      <temperature unit="celsius" value="8.09" min="8.09" max="8.09" />
+      <pressure unit="hPa" value="1011.81" />
+      <humidity value="93" unit="%" />
+      <clouds value="overcast clouds" all="88" unit="%" />
+    </time>
+    <time from="2016-04-07T03:00:00" to="2016-04-07T06:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.35" type="rain" />
+      <windDirection deg="269.5" code="W" name="West" />
+      <windSpeed mps="5.36" name="Gentle Breeze" />
+      <temperature unit="celsius" value="7.93" min="7.93" max="7.93" />
+      <pressure unit="hPa" value="1011.99" />
+      <humidity value="95" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-07T06:00:00" to="2016-04-07T09:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.57" type="rain" />
+      <windDirection deg="314.505" code="NW" name="Northwest" />
+      <windSpeed mps="5.27" name="Gentle Breeze" />
+      <temperature unit="celsius" value="10.34" min="10.34" max="10.34" />
+      <pressure unit="hPa" value="1012.59" />
+      <humidity value="88" unit="%" />
+      <clouds value="scattered clouds" all="32" unit="%" />
+    </time>
+    <time from="2016-04-07T09:00:00" to="2016-04-07T12:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.01" type="rain" />
+      <windDirection deg="297.501" code="WNW" name="West-northwest" />
+      <windSpeed mps="5.36" name="Gentle Breeze" />
+      <temperature unit="celsius" value="12.96" min="12.96" max="12.96" />
+      <pressure unit="hPa" value="1010.99" />
+      <humidity value="80" unit="%" />
+      <clouds value="scattered clouds" all="32" unit="%" />
+    </time>
+    <time from="2016-04-07T12:00:00" to="2016-04-07T15:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.36" type="rain" />
+      <windDirection deg="280" code="W" name="West" />
+      <windSpeed mps="6.41" name="Moderate breeze" />
+      <temperature unit="celsius" value="11.96" min="11.96" max="11.96" />
+      <pressure unit="hPa" value="1009.15" />
+      <humidity value="70" unit="%" />
+      <clouds value="few clouds" all="12" unit="%" />
+    </time>
+    <time from="2016-04-07T15:00:00" to="2016-04-07T18:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.78" type="rain" />
+      <windDirection deg="272.502" code="W" name="West" />
+      <windSpeed mps="7.01" name="Moderate breeze" />
+      <temperature unit="celsius" value="9.64" min="9.64" max="9.64" />
+      <pressure unit="hPa" value="1007.98" />
+      <humidity value="76" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-07T18:00:00" to="2016-04-07T21:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.91" type="rain" />
+      <windDirection deg="275.004" code="W" name="West" />
+      <windSpeed mps="5.82" name="Moderate breeze" />
+      <temperature unit="celsius" value="8.24" min="8.24" max="8.24" />
+      <pressure unit="hPa" value="1006.84" />
+      <humidity value="87" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-07T21:00:00" to="2016-04-08T00:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.85" type="rain" />
+      <windDirection deg="306.5" code="NW" name="Northwest" />
+      <windSpeed mps="6.85" name="Moderate breeze" />
+      <temperature unit="celsius" value="7.3" min="7.3" max="7.3" />
+      <pressure unit="hPa" value="1006.97" />
+      <humidity value="88" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-08T00:00:00" to="2016-04-08T03:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="0.55" type="rain" />
+      <windDirection deg="306.5" code="NW" name="Northwest" />
+      <windSpeed mps="6.41" name="Moderate breeze" />
+      <temperature unit="celsius" value="6.75" min="6.75" max="6.75" />
+      <pressure unit="hPa" value="1007.13" />
+      <humidity value="85" unit="%" />
+      <clouds value="broken clouds" all="80" unit="%" />
+    </time>
+    <time from="2016-04-08T03:00:00" to="2016-04-08T06:00:00">
+      <symbol number="803" name="broken clouds" var="04d" />
+      <precipitation />
+      <windDirection deg="302.504" code="WNW" name="West-northwest" />
+      <windSpeed mps="4.81" name="Gentle Breeze" />
+      <temperature unit="celsius" value="6.46" min="6.46" max="6.46" />
+      <pressure unit="hPa" value="1007.17" />
+      <humidity value="82" unit="%" />
+      <clouds value="broken clouds" all="80" unit="%" />
+    </time>
+    <time from="2016-04-08T06:00:00" to="2016-04-08T09:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.8" type="rain" />
+      <windDirection deg="280" code="W" name="West" />
+      <windSpeed mps="6.11" name="Moderate breeze" />
+      <temperature unit="celsius" value="7.95" min="7.95" max="7.95" />
+      <pressure unit="hPa" value="1006.35" />
+      <humidity value="93" unit="%" />
+      <clouds value="overcast clouds" all="88" unit="%" />
+    </time>
+    <time from="2016-04-08T09:00:00" to="2016-04-08T12:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.1" type="rain" />
+      <windDirection deg="291.007" code="WNW" name="West-northwest" />
+      <windSpeed mps="7.51" name="Moderate breeze" />
+      <temperature unit="celsius" value="11.49" min="11.49" max="11.49" />
+      <pressure unit="hPa" value="1005.06" />
+      <humidity value="86" unit="%" />
+      <clouds value="broken clouds" all="68" unit="%" />
+    </time>
+    <time from="2016-04-08T12:00:00" to="2016-04-08T15:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.01" type="rain" />
+      <windDirection deg="286.501" code="WNW" name="West-northwest" />
+      <windSpeed mps="8.06" name="Fresh Breeze" />
+      <temperature unit="celsius" value="10.88" min="10.88" max="10.88" />
+      <pressure unit="hPa" value="1004.07" />
+      <humidity value="72" unit="%" />
+      <clouds value="overcast clouds" all="88" unit="%" />
+    </time>
+    <time from="2016-04-08T15:00:00" to="2016-04-08T18:00:00">
+      <symbol number="500" name="light rain" var="10d" />
+      <precipitation unit="3h" value="0.62" type="rain" />
+      <windDirection deg="284.001" code="WNW" name="West-northwest" />
+      <windSpeed mps="6.27" name="Moderate breeze" />
+      <temperature unit="celsius" value="9.35" min="9.35" max="9.35" />
+      <pressure unit="hPa" value="1003.57" />
+      <humidity value="82" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+    <time from="2016-04-08T18:00:00" to="2016-04-08T21:00:00">
+      <symbol number="500" name="light rain" var="10n" />
+      <precipitation unit="3h" value="2.6" type="rain" />
+      <windDirection deg="247.004" code="WSW" name="West-southwest" />
+      <windSpeed mps="3.57" name="Gentle Breeze" />
+      <temperature unit="celsius" value="8.65" min="8.65" max="8.65" />
+      <pressure unit="hPa" value="1001.71" />
+      <humidity value="95" unit="%" />
+      <clouds value="overcast clouds" all="92" unit="%" />
+    </time>
+  </forecast>
+</weatherdata>
