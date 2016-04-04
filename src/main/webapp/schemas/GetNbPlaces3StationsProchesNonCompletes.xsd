@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="stations" type="stationsType"/>
+  <xs:complexType name="stationType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="xs:string" name="address"/>
+      <xs:element type="xs:int" name="nbPlaces"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="stationsType">
+    <xs:sequence>
+      <xs:element type="stationType" name="station" maxOccurs="3" minOccurs="3"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

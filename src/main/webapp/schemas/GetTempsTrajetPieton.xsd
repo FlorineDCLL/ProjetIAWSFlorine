@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="temps" type="tempsType"/>
+  <xs:complexType name="tempsType">
+    <xs:sequence>
+      <xs:element type="xs:int" name="heure"/>
+      <xs:element type="xs:int" name="minute"/>
+      <xs:element type="xs:int" name="seconde"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
